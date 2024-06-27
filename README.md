@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naturobotic
 - 👀 I’m interested in mechatronics applications in renewables and cultivation 
-- 🌱 I’m currently learning to master autonomous vehicles, give them feel of the world and set them free.
-- 💞️ I’m looking to collaborate on Unmanned Surface Vehicles, and navigation packages. 
+- 🌱 I’m currently mastering autonomous vehicles, giving them senses and setting them free.
+- 💞️ I’m looking to collaborate on Unmanned Surface Vehicles, and navigation solutions. 
 - 📫 @natutobotic on insta for example
 
 <!---
